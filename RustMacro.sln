@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RustMacro.UI", "RustMacro.UI\RustMacro.UI.csproj", "{02800147-7208-4979-8910-A0632C11BD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02800147-7208-4979-8910-A0632C11BD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02800147-7208-4979-8910-A0632C11BD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02800147-7208-4979-8910-A0632C11BD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02800147-7208-4979-8910-A0632C11BD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0963B7A0-178F-46EA-B029-0877637E0255}
+	EndGlobalSection
+EndGlobal
